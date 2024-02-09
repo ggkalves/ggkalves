@@ -11,7 +11,7 @@
 <li>
 <b>Nome:</b> Giovana Alves</li>
 <li>
-<b>Idiomas:</b> Português-BR (Nativo) - Inglês (Intermediário) - ??? (?)
+<b>Idiomas:</b> Português-BR (Nativo) - Inglês (Intermediário) - Japonês (Básico)
 </li>
 <li>
 <b>Pronomes:</b> Ela/Dela - She/Her
