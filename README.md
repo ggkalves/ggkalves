@@ -2,7 +2,7 @@
    
 
 <p align="center">
-         <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"/>
+         <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"width="400"/>
 </p>
 
 
