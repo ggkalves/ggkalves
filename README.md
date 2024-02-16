@@ -1,5 +1,13 @@
 <body>
    
+
+<p align="center">
+         <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"/>
+</p>
+
+
+
+   
 <br><br>
 
 <div>
@@ -58,6 +66,6 @@ Em breve...
 </div>  
 <br><br><br>
 <div align="center">
-<p>Feito com 💖 por ItsmiUwU </p>
+<p>Feito com 💖 por ggkalves </p>
 </div>
 </body>
