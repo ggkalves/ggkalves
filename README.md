@@ -1,8 +1,6 @@
 <body>
-   
-
 <p align="center">
-         <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"width="200"/>
+   <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"width="200"/>
 </p>
 
 
@@ -30,9 +28,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ✦ 𝚂𝚔𝚒𝚕𝚕𝚜 ✦</h2>
  <br>
-
 <p>Feito com 💖 por ggkalves </p>
 </div>
 </body>
