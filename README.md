@@ -27,8 +27,9 @@
 </li>
 <br><br><br>
 </div>
+
 <div>
  <br>
-<p>Feito com 💖 por ggkalves </p>
+<p align="center">Feito com 💖 por ggkalves</p>
 </div>
 </body>
