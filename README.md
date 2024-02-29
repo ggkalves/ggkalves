@@ -1,12 +1,4 @@
 <body>
-<p align="center">
-   <img src="https://github.com/ggkalves/ggkalves/assets/124086216/aa45c83d-7598-4674-986e-3cc1e0ba60e2"width="200"/>
-</p>
-
-
-
-   
-<br><br>
 
 <div>
 <h2 align="center"> ✦ 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 ✦ </h2>
